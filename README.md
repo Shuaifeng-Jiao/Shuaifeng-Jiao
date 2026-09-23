@@ -4,6 +4,5 @@
 
 - ✨ My research focus on robot perception and spatial intelligence.
 - 🤖 I am a member of NuBot team.
-- 📝 My first-author papers are published in IEEE T-ASE, ICRA and IROS.
 - 🏸 Hobbies: badminton.
 - 📫 Email: [shuaifengj@nudt.edu.cn](mailto:shuaifengj@nudt.edu.cn)
