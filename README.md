@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋I'm Shuaifeng Jiao (焦帅峰)
+Ph.D. student, National University of Defense Technology
+Research interests: **Robot perception, Cross‑Modal Place Recognition, Visual-LiDAR localization, Lunar rover semantic segmentation**
 
 <!--
 **Shuaifeng-Jiao/Shuaifeng-Jiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
