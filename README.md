@@ -1,6 +1,6 @@
 ### Hi there 👋, welcome to Shuaifeng Jiao's Github page!
 
-📡 I am a PhD candidate at National University of Defense Technology (NUDT), Changsha, China. I am under the supervision of  Prof. Zongtan Zhou and receive collaborative guidance from  Assoc. Prof. [Xieyuanli Chen](https://chen-xieyuanli.github.io/) , Prof. [Huimin Lu](https://scholar.google.com/citations?user=cp-6u7wAAAAJ&hl=zh-CN) and Prof Zongtan Zhou.
+📡 I am a PhD candidate at National University of Defense Technology (NUDT), Changsha, China. I am under the supervision of  Prof. Zongtan Zhou and receive collaborative guidance from  Assoc. Prof. [Xieyuanli Chen](https://chen-xieyuanli.github.io/) , Prof. [Huimin Lu](https://scholar.google.com/citations?user=cp-6u7wAAAAJ&hl=zh-CN) and Prof. Zongtan Zhou.
 
 - ✨ My research focus on robot perception and spatial intelligence.
 - 🤖 I am a member of NuBot team.
